@@ -1,10 +1,13 @@
 # UAV-algorithm-design
-PDSTSP problem algorithm design at Weihui
+**PDSTSP problem algorithm design at Weihui home**
 ## 1-11
 new point about python programming
  1. copy.deepcopy([])
  2. random.sample(range(10), 3) 
  3. print(str(list=[]))
+
+
+
 
 ## 1-16 3:34
 some results about 10 customers with only algorithm 6
@@ -37,18 +40,18 @@ runfile('C:/CodeLi/pythonLi/PDSTSP/PDSTSP_heuristic.py', wdir='C:/CodeLi/pythonL
 | 0     | 18.68 | 20.62 | 16.12 | 18.11 | 15.13 | 19   | 16   | 18.11 | 20.1 | 16.76 | 0     |
 
 
-maxSaving is :  17.03
-maxSaving is :  17.63
-maxSaving is :  18.10
-maxSaving is :  17.48
-maxSaving is :  14.15
-while loop break out, END!
-UAV makespan:  49.81
-Truck makespan:  51.43
-UAV Assignments:
-[1, 5, 7]
-Truck Assignments:
-[3, 4, 2, 6, 9, 8, 10]
+maxSaving is :  17.03  
+maxSaving is :  17.63  
+maxSaving is :  18.10  
+maxSaving is :  17.48  
+maxSaving is :  14.15  
+while loop break out, END!  
+UAV makespan:  49.81  
+Truck makespan:  51.43  
+UAV Assignments:  
+[1, 5, 7]  
+Truck Assignments:  
+[3, 4, 2, 6, 9, 8, 10]  
 *********** ->PDSTSP heuristic algorithm<- ***********
 
 ![image](https://user-images.githubusercontent.com/48487718/149635780-132a52e8-9f6b-48cf-9143-f19ed57eaa3d.png)
