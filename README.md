@@ -3,7 +3,7 @@
 
 ## 1-16 3:34
 some results about 10 customers with only algorithm 6
-### Output Window info for 10 Customers:
+## Output Window info for 10 Customers:
 runfile('C:/CodeLi/pythonLi/PDSTSP/PDSTSP_heuristic.py', wdir='C:/CodeLi/pythonLi/PDSTSP')
  ***********Data Info***********
 
@@ -104,8 +104,8 @@ runfile('C:/CodeLi/pythonLi/PDSTSP/PDSTSP_heuristic.py', wdir='C:/CodeLi/pythonL
 
  ***********Data Info***********
 
- UAV  range            =   20
- UAV's eligible CusNum =    9
+ UAV  range            =   20  
+ UAV's eligible CusNum =    9  
 
 *****************************Distance Matrix***************************
 |       |       |       |       |       |       |      |      |       |      |       |       |       |
