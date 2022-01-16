@@ -1,11 +1,3 @@
-# UAV-algorithm-design
-**PDSTSP problem algorithm design at Weihui home**
-## 1-11
-new point about python programming
- 1. copy.deepcopy([])
- 2. random.sample(range(10), 3) 
- 3. print(str(list=[]))
-
 
 
 
@@ -18,11 +10,7 @@ runfile('C:/CodeLi/pythonLi/PDSTSP/PDSTSP_heuristic.py', wdir='C:/CodeLi/pythonL
  UAV  range            =   20
  UAV's eligible CusNum =    8
  
- Test Markdown
-|  表头   | 表头  |
-|  ----  | ----  |
-| 单元格  | 单元格 |
-| 单元格  | 单元格 |
+ Test Markdown  
 
 *****************************Distance Matrix***************************
 | 0     | 18.68 | 20.62 | 16.12 | 18.11 | 15.13 | 19   | 16   | 18.11 | 20.1 | 16.76 | 0     |
@@ -260,3 +248,5 @@ UAV Assignments:
 Truck Assignments:  
 [10, 13, 15, 14, 12, 11, 9, 6, 4, 3, 5]  
 *********** ->PDSTSP heuristic algorithm<- ***********  
+
+
