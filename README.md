@@ -24,7 +24,8 @@ https://blog.csdn.net/weixin_43464653/article/details/122877907
 solomn数据集：
 https://download.csdn.net/download/weixin_43464653/54077805
 
-参考文献
+### 参考文献
+
 【1】Murray, C. C., & Chu, A.he G. (2015). The flying sidekick traveling salesman problem: Optimization of drone-assisted parcel delivery. Transportation Research Part C: Emerging Technologies, 54, 86-109. https://doi.org/10.1016/j.trc.2015.03.005
 
 【2】Min, L., Cheng, W., 1999. A genetic algorithm for minimizing the makespan in the case of scheduling identical parallel machines. Artif. Intell. Eng. 13 (4), 399–403.
