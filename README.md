@@ -28,21 +28,8 @@ runfile('C:/CodeLi/pythonLi/PDSTSP/PDSTSP_heuristic.py', wdir='C:/CodeLi/pythonL
 | 0     | 18.68 | 20.62 | 16.12 | 18.11 | 15.13 | 19   | 16   | 18.11 | 20.1 | 16.76 | 0     |
 
 
-maxSaving is :  17.03  
-maxSaving is :  17.63  
-maxSaving is :  18.10  
-maxSaving is :  17.48  
-maxSaving is :  14.15  
-while loop break out, END!  
-UAV makespan:  49.81  
-Truck makespan:  51.43  
-UAV Assignments:  
-[1, 5, 7]  
-Truck Assignments:  
-[3, 4, 2, 6, 9, 8, 10]  
-*********** ->PDSTSP heuristic algorithm<- ***********
+![image](https://user-images.githubusercontent.com/48487718/153692944-3e556fab-b7d5-45ed-a94a-b368d30aa63e.png)
 
-![image](https://user-images.githubusercontent.com/48487718/149635780-132a52e8-9f6b-48cf-9143-f19ed57eaa3d.png)
 
 
 
@@ -78,87 +65,19 @@ runfile('C:/CodeLi/pythonLi/PDSTSP/PDSTSP_heuristic.py', wdir='C:/CodeLi/pythonL
 | 0     | 18.68 | 20.62 | 16.12 | 18.11 | 15.13 | 19   | 16   | 18.11 | 20.1 | 16.76 | 19.65 | 0     |
 
 
-maxSaving is :  17.03  
-maxSaving is :  17.63  
-maxSaving is :  18.10  
-maxSaving is :  17.48  
-maxSaving is :  17.09  
-maxSaving is :  14.15  
-PDSTSP heuristic (Algorithm6) was successfully called!  
-
-*************** The optimal solution are AS FOLLOWS: *************  
-
-UAV makespan  :  49.81  
-Truck makespan:  53.99  
-UAV Assignments  :[1, 5, 7]  
-Truck Assignments:[3, 4, 2, 6, 8, 9, 11, 10]  
-
-******* Detailed path info was shown in PLOTS windows above! *****  
-
-![image](https://user-images.githubusercontent.com/48487718/149635736-7b8d2b3a-530a-4e6d-a950-06633557e5fa.png)
+![image](https://user-images.githubusercontent.com/48487718/153692962-38a16156-838d-40ac-8535-b0bcf1f9330b.png)
 
 
 
-
-runfile('C:/CodeLi/pythonLi/PDSTSP/PDSTSP_heuristic.py', wdir='C:/CodeLi/pythonLi/PDSTSP')
-
- ***********Data Info***********
-
- UAV  range            =   20  
- UAV's eligible CusNum =    9  
-
-*****************************Distance Matrix***************************
-|       |       |       |       |       |       |      |      |       |      |       |       |       |
-|-------|-------|-------|-------|-------|-------|------|------|-------|------|-------|-------|-------|
-| 0     | 18.68 | 20.62 | 16.12 | 18.11 | 15.13 | 19   | 16   | 18.11 | 20.1 | 16.76 | 19.65 | 0     |
-| 18.68 | 0     | 2     | 3.61  | 3     | 4.24  | 5.1  | 5.39 | 7     | 7.28 | 10.2  | 10.05 | 18.68 |
-| 20.62 | 2     | 0     | 5     | 3.61  | 5.83  | 5.1  | 6.4  | 7.28  | 7    | 10.77 | 10.05 | 20.62 |
-| 16.12 | 3.61  | 5     | 0     | 2     | 1     | 3.61 | 2    | 4.47  | 5.66 | 7     | 7.62  | 16.12 |
-| 18.11 | 3     | 3.61  | 2     | 0     | 3     | 2.24 | 2.83 | 4     | 4.47 | 7.28  | 7.07  | 18.11 |
-| 15.13 | 4.24  | 5.83  | 1     | 3     | 0     | 4.47 | 2.24 | 5     | 6.4  | 7.07  | 8.06  | 15.13 |
-| 19    | 5.1   | 5.1   | 3.61  | 2.24  | 4.47  | 0    | 3    | 2.24  | 2.24 | 5.83  | 5     | 19    |
-| 16    | 5.39  | 6.4   | 2     | 2.83  | 2.24  | 3    | 0    | 2.83  | 4.47 | 5     | 5.83  | 16    |
-| 18.11 | 7     | 7.28  | 4.47  | 4     | 5     | 2.24 | 2.83 | 0     | 2    | 3.61  | 3.16  | 18.11 |
-| 20.1  | 7.28  | 7     | 5.66  | 4.47  | 6.4   | 2.24 | 4.47 | 2     | 0    | 5     | 3.16  | 20.1  |
-| 16.76 | 10.2  | 10.77 | 7     | 7.28  | 7.07  | 5.83 | 5    | 3.61  | 5    | 0     | 3     | 16.76 |
-| 19.65 | 10.05 | 10.05 | 7.62  | 7.07  | 8.06  | 5    | 5.83 | 3.16  | 3.16 | 3     | 0     | 19.65 |
-| 0     | 18.68 | 20.62 | 16.12 | 18.11 | 15.13 | 19   | 16   | 18.11 | 20.1 | 16.76 | 19.65 | 0     |
-
-
-
-
-maxSaving is :  17.03  
-maxSaving is :  17.63  
-maxSaving is :  18.10  
-maxSaving is :  17.48  
-maxSaving is :  17.09  
-maxSaving is :  15.12  
-maxSaving is :  14.15  
-PDSTSP heuristic (Algorithm6) was successfully called!  
-
-*************** The optimal solution are AS FOLLOWS: *************  
-
-UAV makespan  : 34.68  
-Truck makespan: 54.00  
-UAV Assignments  : [1, 7]  
-Truck Assignments: [10, 11, 8, 9, 6, 2, 4, 3, 5]  
-
-******* Detailed path info was shown in PLOTS windows above! *****  
-![image](https://user-images.githubusercontent.com/48487718/149635551-57720c7b-f8ab-42f2-b43c-97e4cff0bddd.png)
-
----
 
 some results about 15 customers with only algorithm 6  
 ### Output Window info for 15 Customers:  
 
 
+![image](https://user-images.githubusercontent.com/48487718/153693038-1664cb46-7e95-43fa-bc97-2f2cc56b66b9.png)
 
 
 
-
-
-runfile('C:/CodeLi/pythonLi/PDSTSP/PDSTSP_heuristic.py', wdir='C:/CodeLi/pythonLi/PDSTSP')
- ***********Data Info***********  
 
  UAV  range            =   20  
  UAV's eligible CusNum =   10  
@@ -185,19 +104,7 @@ runfile('C:/CodeLi/pythonLi/PDSTSP/PDSTSP_heuristic.py', wdir='C:/CodeLi/pythonL
 | 0     | 18.68 | 20.62 | 16.12 | 18.11 | 15.13 | 19    | 16    | 18.11 | 20.1  | 16.76 | 19.65 | 38.08 | 30.81 | 39.36 | 36.06 | 0     |
 
 
-maxSaving is :  37.84  
-maxSaving is :  18.96  
-maxSaving is :  19.95  
-maxSaving is :  17.48  
-maxSaving is :  15.12  
-maxSaving is :  16.11  
-while loop break out, END!  
-UAV makespan:  74.94  
-Truck makespan:  90.80  
-UAV Assignments:  
-[1, 2, 7, 11]  
-Truck Assignments:  
-[10, 13, 15, 14, 12, 9, 8, 6, 4, 3, 5]  
+
 *********** ->PDSTSP heuristic algorithm<- ***********  
 ![image](https://user-images.githubusercontent.com/48487718/149635798-266dfdfc-f278-4621-ba1c-ba57d5abdd18.png)  
 
@@ -234,19 +141,8 @@ runfile('C:/CodeLi/pythonLi/PDSTSP/PDSTSP_heuristic.py', wdir='C:/CodeLi/pythonL
 | 0     | 18.68 | 20.62 | 16.12 | 18.11 | 15.13 | 19    | 16    | 18.11 | 20.1  | 16.76 | 19.65 | 38.08 | 30.81 | 39.36 | 36.06 | 0     |
 
 
-maxSaving is :  35.96  
-maxSaving is :  21.30  
-maxSaving is :  18.82  
-maxSaving is :  17.48  
-maxSaving is :  15.12  
-maxSaving is :  17.47  
-while loop break out, END!  
-UAV makespan:  73.41  
-Truck makespan:  90.98  
-UAV Assignments:  
-[1, 2, 7, 8]  
-Truck Assignments:  
-[10, 13, 15, 14, 12, 11, 9, 6, 4, 3, 5]  
+![image](https://user-images.githubusercontent.com/48487718/153693059-b908c2cc-e7da-467a-84c3-4a0fd68bf413.png)
+
 *********** ->PDSTSP heuristic algorithm<- ***********  
 ### Output Window info for 20 Customers:    
 
@@ -284,26 +180,8 @@ runfile('C:/CodeLi/pythonLi/PDSTSP/PDSTSP_heuristic.py', wdir='C:/CodeLi/pythonL
 | 20 | 10    | 23.43 | 25    | 20    | 21.63 | 19.21 | 21.47 | 18.87 | 19.7  | 21.54 | 16.76 | 19.65 | 35.36 | 26.25 | 35.9  | 31.62 | 36.4  | 27.73 | 29.15 | 33.54 | 0     | 10    |
 | 21 | 0     | 18.68 | 20.62 | 16.12 | 18.11 | 15.13 | 19    | 16    | 18.11 | 20.1  | 16.76 | 19.65 | 38.08 | 30.81 | 39.36 | 36.06 | 40.31 | 33.3  | 35.36 | 39.05 | 10    | 0     |
 
-maxSaving is :  31.45  
-maxSaving is :  20.08  
-maxSaving is :  17.03  
-maxSaving is :  17.63  
-function SWAP was called, and uav Makespan, truck makespan, UAV customers and Truck customers' are: 108.64 113.15   
-[1, 2, 4, 5, 7, 9][20, 17, 18, 19, 16, 14, 12, 15, 13, 11, 10, 8, 6, 3]  
-function SWAP was called, and uav Makespan, truck makespan, UAV customers and Truck customers' are: 111.64 112.13   
-[1, 2, 4, 5, 9, 6][20, 17, 18, 19, 16, 14, 12, 15, 13, 11, 10, 8, 7, 3]  
-PDSTSP heuristic (Algorithm6) was successfully called!  
-   
-*************** The optimal solution are AS FOLLOWS: *************  
-  
-UAV makespan  : 111.64  
-Truck makespan: 112.13  
-UAV Assignments  : [1, 2, 4, 5, 9, 6]  
-Truck Assignments: [20, 17, 18, 19, 16, 14, 12, 15, 13, 11, 10, 8, 7, 3]  
 
-******* Detailed path info was shown in PLOTS windows above! *****
-
-![image](https://user-images.githubusercontent.com/48487718/149655632-67817855-a7ea-44a9-9659-f79b54510dde.png)  
+![image](https://user-images.githubusercontent.com/48487718/153693071-18f266f2-f6a4-4d25-ad30-a7567db05880.png)
 
 ### Output Window info for 30 Customers:  
 runfile('C:/CodeLi/pythonLi/PDSTSP/PDSTSP_heuristic.py', wdir='C:/CodeLi/pythonLi/PDSTSP')  
@@ -349,30 +227,7 @@ runfile('C:/CodeLi/pythonLi/PDSTSP/PDSTSP_heuristic.py', wdir='C:/CodeLi/pythonL
 | 20.62 | 28.18 | 29.15 | 24.6  | 25.55 | 24.17 | 24.41 | 22.83 | 22.2  | 23.43 | 18.6  | 20.52 | 30.41 | 20.1  | 30.07 | 25    | 30    | 20.1  | 20.62 | 25.5  | 11.18 | 10.44 | 8.54  | 8     | 7.07  | 5.83  | 5     | 4.24  | 3     | 5     | 0     | 20.62 |
 | 0     | 18.68 | 20.62 | 16.12 | 18.11 | 15.13 | 19    | 16    | 18.11 | 20.1  | 16.76 | 19.65 | 38.08 | 30.81 | 39.36 | 36.06 | 40.31 | 33.3  | 35.36 | 39.05 | 10    | 10.2  | 12.17 | 13    | 15    | 15.13 | 15.81 | 17.12 | 17.72 | 20    | 20.62 | 0     |
 
-maxSaving is :  27.55  
-maxSaving is :  22.07  
-maxSaving is :  18.14  
-maxSaving is :  18.13  
-maxSaving is :  17.03  
-maxSaving is :  17.63  
-maxSaving is :  18.10  
-maxSaving is :  17.48  
-maxSaving is :  15.12  
-maxSaving is :  14.74  
-maxSaving is :  14.15  
-maxSaving is :  17.94  
-function SWAP was called, and uav Makespan, truck makespan, UAV customers and Truck customers' are: 119.29 127.36   
-[7, 21, 22, 23, 24, 26, 27, 29][20, 25, 28, 30, 17, 18, 19, 16, 14, 12, 15, 13, 11, 10, 8, 9, 6, 4, 2, 1, 3, 5]  
-function SWAP was called, and uav Makespan, truck makespan, UAV customers and Truck customers' are: 119.89 126.99   
-[7, 21, 22, 23, 24, 26, 29, 28][20, 25, 27, 30, 17, 18, 19, 16, 14, 12, 15, 13, 11, 10, 8, 9, 6, 4, 2, 1, 3, 5]  
-PDSTSP heuristic (Algorithm6) was successfully called!  
 
-*************** The optimal solution are AS FOLLOWS: *************  
-  
-UAV makespan  : 119.89  
-Truck makespan: 126.99  
-UAV Assignments  : [7, 21, 22, 23, 24, 26, 29, 28]  
-Truck Assignments: [20, 25, 27, 30, 17, 18, 19, 16, 14, 12, 15, 13, 11, 10, 8, 9, 6, 4, 2, 1, 3, 5]  
-![image](https://user-images.githubusercontent.com/48487718/149655622-40cecc2a-6c5e-4b8e-920b-f6854e92a579.png)
+![image](https://user-images.githubusercontent.com/48487718/153693093-5a6bbc09-70e4-4577-8221-a82cbe312e78.png)
 
 ******* Detailed path info was shown in PLOTS windows above! *****  
