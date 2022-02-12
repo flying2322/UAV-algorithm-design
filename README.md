@@ -16,20 +16,12 @@
 ![image](https://user-images.githubusercontent.com/48487718/153694207-b88bba0c-0706-4753-8e41-a184b3043f1c.png)
 
 
-## 更详细内容参见链接：
+# 详细内容参见链接：
 https://blog.csdn.net/weixin_43464653/article/details/122877907
 
-
-
- 在算法对比中，SA启发式方法是在结果重复实验10次的场景下的最优解，可以看到在大多数情况下SA求解TSP的启发式都求得了问题的最优解，并且其求解的数据集顾客数为100时也是可以在652秒左右的时间求解完毕。
-
-所有代码见：
-flying2322/UAV-algorithm-design: PDSTSP problem algorithm design at Weihui (github.com)
-https://github.com/flying2322/UAV-algorithm-design
+在算法对比中，SA启发式方法是在结果重复实验10次的场景下的最优解，可以看到在大多数情况下SA求解TSP的启发式都求得了问题的最优解，并且其求解的数据集顾客数为100时也是可以在652秒左右的时间求解完毕。
 
 solomn数据集：
-
-solomn标准数据集，用于研究VRP问题_solomn数据集-交通文档类资源-CSDN文库
 https://download.csdn.net/download/weixin_43464653/54077805
 
 参考文献
